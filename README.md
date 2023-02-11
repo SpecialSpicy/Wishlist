@@ -1,2 +1,2 @@
 # Wishlist
-A Simple Wishlist with a Simple GUI
+A Simple Wishlist from the Console
