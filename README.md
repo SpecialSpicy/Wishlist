@@ -1,3 +1,7 @@
-# Wishlist
-A Simple Wishlist from the Console
-(Also as an executable)
+  ______________________________________
+  
+      A WishlistMaker by Houman Hafez
+            (Written in Python)
+    Please Always download it as a zip
+    
+  ______________________________________
