@@ -51,7 +51,7 @@ wishlist = Wishlist()
 
 #Empty line and a greeting
 print()
-print(f"Welcome to Wishlist 1.0 Created by Houman Hafez ")
+print(f"Welcome to Wishlist Created by Houman Hafez. ")
 #A while loop that loops over instructions and uses class functions when the correct input has been given
 #If the input is incorrect, the while loop starts over again
 while True:
